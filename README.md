@@ -1,4 +1,5 @@
 # 🌊 Welcome to the CoUGARs Wiki!
+[![arXiv](https://img.shields.io/badge/arXiv-2511.08822-b31b1b.svg)](https://arxiv.org/pdf/2511.08822)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/cougars-auv/cougars-wiki/main.svg)](https://results.pre-commit.ci/latest/github/cougars-auv/cougars-wiki/main)
 
 CoUGARs is a low-cost, configurable AUV platform designed for multi-agent autonomy research by the [Field Robotic Systems Lab (FROST Lab)](https://frostlab.byu.edu) at [Brigham Young University](https://byu.edu).
